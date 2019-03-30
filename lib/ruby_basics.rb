@@ -36,8 +36,8 @@ def last_evaluated_value
   return phrase
 end
 
-def pizza_party
+def pizza_party(cheese)
 
-return "cheese"
+return #{"cheese"}
  
 end
