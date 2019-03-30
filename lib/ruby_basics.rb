@@ -38,5 +38,5 @@ end
 
 def pizza_party(cheese)
 
-return #{cheese}
+ #{cheese}
 end
