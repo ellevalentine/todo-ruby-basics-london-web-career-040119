@@ -1,4 +1,9 @@
+num1=42
+num2= 7
+
 def division(num1, num2)
+ 
+ return = num1/num2
  
 end
 
