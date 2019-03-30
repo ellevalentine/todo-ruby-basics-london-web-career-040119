@@ -38,5 +38,6 @@ end
 
 def pizza_party
 
+return "cheese"
  
 end
